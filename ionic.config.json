@@ -1,0 +1,7 @@
+{
+  "name": "smartbiz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
